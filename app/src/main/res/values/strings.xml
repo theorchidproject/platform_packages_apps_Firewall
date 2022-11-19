@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Datura Firewall</string>
-    <string name="app_short_name">Firewall</string>
+    <string name="app_name">System Firewall</string>
+    <string name="app_short_name">OrchidOs Firewall</string>
 
     <string name="installed_apps">Installed apps</string>
     <string name="system_apps">System apps</string>
@@ -19,9 +19,9 @@
     <string name="about_summary">A firewall application using Android\'s internal network API.</string>
     <string name="about_license">License: <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache2</a></string>
     <string name="about_author">Written by: <a href="https://github.com/esecoder">Ese Udom</a> and <a href="https://github.com/chirayudesai">Chirayu Desai</a></string>
-    <string name="about_design">Design by: <a href="https://www.glennsorrentino.com/">Glenn Sorrentino</a></string>
-    <string name="about_sponsor">Sponsored by: <a href="https://www.calyxinstitute.org">Calyx Institute</a> for use in <a href="https://calyxos.org">CalyxOS</a></string>
-    <string name="about_source_code">Source code: https://gitlab.com/CalyxOS/platform_packages_apps_Firewall</string>
+    <string name="about_design">Design by: <a href="https://www.glennsorrentino.com/">many thanks to Glenn Sorrentino</a></string>
+    <string name="about_sponsor">Sponsored by: <a href="https://www.calyxinstitute.org">thank you Calyx Institute</a> for use in <a href="https://calyxos.org">CalyxOS</a></string>
+    <string name="about_source_code">Source code: https://gitlab.com/theorchidproject/platform_packages_apps_Firewall</string>
 
     <!-- Work in progress features -->
     <string name="app_name_text" translatable="false">App name</string>
